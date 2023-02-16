@@ -104,6 +104,7 @@ button:not(:disabled):active {
 #logo {
   margin-top: 6%;
   margin-right: 6%;
+  width: 45%;
 }
 
 #next {
