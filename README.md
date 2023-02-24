@@ -21,13 +21,13 @@ Features
 ## Usage
 - to start live server
 ````
-node app.js
+node index.html
 ````
 
 ### MIT License
 [![License](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0])  
 <a href="https://github.com/theazimjon/my-tetris/blob/main/LICENSE.md" > Copyright (c) 2023 UWABOR COLLINS </a>
-<p> Forbidden plagiarsm for assigments! </p>
+<p> Forbidden plagiarsm for assignments! </p>
 
 ### The Core Team
 UWABOR COLLINS
