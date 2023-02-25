@@ -1,4 +1,4 @@
-# My tetris game
+# My Tetris Game
 
 My tetris game Qwasar.io Season 2 Fullstack project
 
